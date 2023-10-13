@@ -1,0 +1,43 @@
+@import url('https://fonts.cdnfonts.com/css/trt');
+/* index.css veya global stil dosyasında kullanabilirsiniz */
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  text-decoration: none;
+  font-family: "TRT";
+  width: 100vw;
+}
+
+/* body {
+  line-height: 1;>
+} */
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+hr {
+  border: 1px solid rgb(223, 229, 235, 1);
+  width: 90%;
+  margin: 1rem;
+}
+
+hr.v-line {
+  width: 1px;
+}
+hr.h-line {
+  height: 1px;
+}
