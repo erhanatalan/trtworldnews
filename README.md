@@ -15,12 +15,12 @@ npm install veya yarn
 - `@mui/material-ui`
 - `@emotion/react`
 - `@emotion/styled`
+- typescript
 
 ## `Kullanilacak API`:
 
 - https://newsapi.org/
   (Get Key butonuna tiklanarak key alinabilir)
-
 - URL:
   const url = `https://newsapi.org/v2/top-headlines?country=tr&apiKey=${API_KEY}`;
 
